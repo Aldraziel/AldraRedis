@@ -1,0 +1,12 @@
+main: fr.flowarg.aldraziel.aldraredis.AldraRedis
+version: 1.0.1-SNAPSHOT
+description: "AldraRedis is a plugin for AldraPlugins that allows you to use Redis as a database."
+name: AldraRedis
+prefix: AldraRedis
+database: false
+api-version: 1.18
+author: Flow Arg (FlowArg)
+authors:
+  - FlowArg
+libraries:
+  - redis.clients:jedis:4.2.1
