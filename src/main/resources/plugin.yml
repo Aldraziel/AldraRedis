@@ -1,4 +1,4 @@
-main: fr.flowarg.aldraziel.aldraredis.AldraRedis
+main: fr.aldraredis.AldraRedis
 version: 1.0.1-SNAPSHOT
 description: "AldraRedis is a plugin for AldraPlugins that allows you to use Redis as a database."
 name: AldraRedis
