@@ -9,4 +9,4 @@ author: Flow Arg (FlowArg)
 authors:
   - FlowArg
 libraries:
-  - redis.clients:jedis:4.2.1
+  - redis.clients:jedis:5.1.0
